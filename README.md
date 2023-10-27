@@ -1,7 +1,7 @@
 # Write-a-c-program-that-how-to-know-age-from-year-month-day-to-in-days-only.
 
 
-#include <stdio.h>
+// #include <stdio.h>
 int main() {
     int years, months, days;
 
